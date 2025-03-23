@@ -30,7 +30,7 @@ body{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: clamp(1rem, 5vw, 16rem);
+        font-size: clamp(1.5rem, 6vw, 8rem); 
         font-weight: bold;
         letter-spacing: 0.3rem;
         position: absolute;
